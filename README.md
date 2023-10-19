@@ -4,6 +4,6 @@
 
 ### Task One - Page Rank
 
-The page rank is calculating with the following fomula $ r' = \alpha M r + (1 - \alpha) s $, which s equals to 
+The page rank is calculating with the following formula $r' = \alpha M r + (1 - \alpha) s$ 
 
 ### Task Two - Game of Life
